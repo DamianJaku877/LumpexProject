@@ -17,18 +17,11 @@ public class Price {
     private float friday;
     private float saturday;
     private float sunday;
+    @OneToOne
+    private Shop shop;
 
     public Price(){}
     public Price(long id){}
-    public Price(float monday, float tuesday, float wednesday, float thursday, float friday, float saturday, float sunday) {
-        this.monday = monday;
-        this.tuesday = tuesday;
-        this.wednesday = wednesday;
-        this.thursday = thursday;
-        this.friday = friday;
-        this.saturday = saturday;
-        this.sunday = sunday;
-    }
 
     public long getId() {
         return id;
@@ -94,17 +87,4 @@ public class Price {
         this.sunday = sunday;
     }
 
-    @Override
-    public String toString() {
-        return "Price{" +
-                "id=" + id +
-                ", monday=" + monday +
-                ", tuesday=" + tuesday +
-                ", wednesday=" + wednesday +
-                ", thursday=" + thursday +
-                ", friday=" + friday +
-                ", saturday=" + saturday +
-                ", sunday=" + sunday +
-                '}';
-    }
 }

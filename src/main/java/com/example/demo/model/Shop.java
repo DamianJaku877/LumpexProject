@@ -15,22 +15,19 @@ public class Shop {
     private String postCode;
     private String street;
     private String home;
-    private float price;
-    private float open;
-    private float close;
+    @OneToOne
+    private Location location;
+    @OneToOne
+    private Open open;
+    @OneToOne
+    private Close close;
+    @OneToOne
+    private Delivery delivery;
+    @OneToOne
+    private Price price;
 
     public Shop(){}
     public Shop(long id){}
-    public Shop(String shopName, String city, String postCode, String street, String home, float price, float open, float close) {
-        this.shopName = shopName;
-        this.city = city;
-        this.postCode = postCode;
-        this.street = street;
-        this.home = home;
-        this.price = price;
-        this.open = open;
-        this.close = close;
-    }
 
     public long getId() {
         return id;
@@ -80,42 +77,43 @@ public class Shop {
         this.home = home;
     }
 
-    public float getPrice() {
-        return price;
+    public Location getLocation() {
+        return location;
     }
 
-    public void setPrice(float price) {
-        this.price = price;
+    public void setLocation(Location location) {
+        this.location = location;
     }
 
-    public float getOpen() {
+    public Open getOpen() {
         return open;
     }
 
-    public void setOpen(float open) {
+    public void setOpen(Open open) {
         this.open = open;
     }
 
-    public float getClose() {
+    public Close getClose() {
         return close;
     }
 
-    public void setClose(float close) {
+    public void setClose(Close close) {
         this.close = close;
     }
 
-    @Override
-    public String toString() {
-        return "Shop{" +
-                "id=" + id +
-                ", shopName='" + shopName + '\'' +
-                ", city='" + city + '\'' +
-                ", postCode='" + postCode + '\'' +
-                ", street='" + street + '\'' +
-                ", home='" + home + '\'' +
-                ", price=" + price +
-                ", open=" + open +
-                ", close=" + close +
-                '}';
+    public Delivery getDelivery() {
+        return delivery;
+    }
+
+    public void setDelivery(Delivery delivery) {
+        this.delivery = delivery;
+    }
+
+    public Price getPrice() {
+        return price;
+    }
+
+    public void setPrice(Price price) {
+        this.price = price;
     }
 }

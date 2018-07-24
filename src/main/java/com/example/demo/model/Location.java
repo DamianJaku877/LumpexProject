@@ -3,20 +3,28 @@ package com.example.demo.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "lociation")
+@Table(name = "location")
 public class Location {
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
     double x;
     double y;
+
+    @OneToOne
+    private Shop shop;
+
     public Location(){}
     public Location(long id){}
 
-    public Location(double x, double y) {
-        this.x = x;
-        this.y = y;
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
     }
 
     public double getX() {
@@ -35,20 +43,4 @@ public class Location {
         this.y = y;
     }
 
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
-    }
-
-    @Override
-    public String toString() {
-        return "Location{" +
-                "x=" + x +
-                ", y=" + y +
-                ", id=" + id +
-                '}';
-    }
 }

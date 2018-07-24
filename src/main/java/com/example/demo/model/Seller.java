@@ -44,12 +44,4 @@ public class Seller {
         this.password = password;
     }
 
-    @Override
-    public String toString() {
-        return "Seller{" +
-                "id=" + id +
-                ", login='" + login + '\'' +
-                ", password='" + password + '\'' +
-                '}';
-    }
 }

@@ -18,6 +18,9 @@ public class Delivery {
     private boolean saturday;
     private boolean sunday;
 
+    @OneToOne
+    private Shop shop;
+
     public Delivery(){}
     public Delivery(long id){}
 
@@ -95,17 +98,4 @@ public class Delivery {
         this.sunday = sunday;
     }
 
-    @Override
-    public String toString() {
-        return "Delivery{" +
-                "id=" + id +
-                ", monday=" + monday +
-                ", tuesday=" + tuesday +
-                ", wednesday=" + wednesday +
-                ", thursday=" + thursday +
-                ", friday=" + friday +
-                ", saturday=" + saturday +
-                ", sunday=" + sunday +
-                '}';
-    }
 }

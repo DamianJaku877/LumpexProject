@@ -16,6 +16,9 @@ public class Close {
     private float saturday;
     private float sunday;
 
+    @OneToOne
+    private Shop shop;
+
     public Close(){}
     public Close(long id){}
     public Close(float monday, float tuesday, float wednesday, float thursday, float friday, float saturday, float sunday) {
@@ -90,19 +93,5 @@ public class Close {
 
     public void setSunday(float sunday) {
         this.sunday = sunday;
-    }
-
-    @Override
-    public String toString() {
-        return "Close{" +
-                "id=" + id +
-                ", monday=" + monday +
-                ", tuesday=" + tuesday +
-                ", wednesday=" + wednesday +
-                ", thursday=" + thursday +
-                ", friday=" + friday +
-                ", saturday=" + saturday +
-                ", sunday=" + sunday +
-                '}';
     }
 }
