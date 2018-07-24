@@ -1,7 +1,6 @@
 package com.example.demo.model;
 
 import javax.persistence.*;
-import java.util.Timer;
 
 @Entity
 @Table(name = "shop")
@@ -22,7 +21,6 @@ public class Shop {
 
     public Shop(){}
     public Shop(long id){}
-
     public Shop(String shopName, String city, String postCode, String street, String home, float price, float open, float close) {
         this.shopName = shopName;
         this.city = city;
