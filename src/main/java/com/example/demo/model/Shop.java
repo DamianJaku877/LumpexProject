@@ -26,6 +26,7 @@ public class Shop {
     @OneToOne
     private Price price;
 
+
     public Shop(){}
     public Shop(long id){}
 
