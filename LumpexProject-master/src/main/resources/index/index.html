@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="pl" />
+    <meta name="description" content="Wyszukiwarka okolicznych second-handach" />
+    <meta name="keywords" content="wyszukiwarka, second-hand, lumex, lumpeks, ubrania, search" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Lumpeks</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/grid.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style320_450_520.css">
+</head>
+<body>
+    <!-- Nagłówek aplikacji zawierający logo z nazwą formularze do wyszukiwani w bazie danych secound-hand -->
+    <header class="top_nav">
+        <!-- graficzne logo wyszukiwarki -->
+        <section>
+            <article class="logo_container">
+                <a href="index.html"><img src="img/lumpekssearch.png" /></a>
+            </article>
+        </section>
+        <!-- formularz wyszukiwania -->
+        <section>
+            <article class="search_container">
+                <div id="floating-panel">
+                    <input id="address" type="text">
+                    <input id="submit" type="button" value="Przejdź do wybranego miasta">
+                </div>
+            </article>
+        </section>
+    </header>
+    <!-- Kontener zawierający mapę i listę wyszukanych lumpeksów w danym mieście -->
+    <section class="main_container">
+        <article class="col-12 map_container">
+            <div id="map"></div>
+        </article>
+    </section>
+    <!-- Stopka strony zawierająca dane kontaktowe -->
+    <footer>
+        <article class="col-12 footer_container">
+
+        </article>
+    </footer>
+    <div>
+        <script rel="script" src="scripts/main.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwLiivhbWle_M2z47wpSTUwL-gMwzsw1k&callback=initMap"
+                async defer></script>
+    </div>
+</body>
+</html>
