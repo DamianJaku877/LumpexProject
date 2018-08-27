@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.ArithmeticException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

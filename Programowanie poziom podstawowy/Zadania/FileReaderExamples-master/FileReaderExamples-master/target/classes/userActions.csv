@@ -1,0 +1,25 @@
+action;login;password;firstname;lastname;role
+CREATE;jnowak;psw123;Jan;Nowak;admin
+CREATE;anowak;123newPassw;Anna;Nowak;moderator
+CREATE;mmajchrzak;Psw5432;Marek;Majchrzak;user
+CREATE;tturek;admin;Tomasz ;Turek;user
+CREATE;zdybek;admin123;Zofia;Dybek;user
+CREATE;rmaks;testAdmin432;Ronald;Maks;user
+CREATE;mamajchrzak;psw321;Marta ;Majchrzak;user
+CREATE;rkowalski;daspassw123;Rysard;Kowalski;user
+CREATE;skukuczka;admintest123;Szymon;Kukuczka;user
+UPDATE;mmajchrzak;newPsw123;;;
+UPDATE;mamajchrzak;;;;admin
+UPDATE;anowak;;;;user
+UPDATE;rkowalski;;Ryszard;;
+REMOVE;zdybek;;;;
+CREATE;zdybek;admin123;Zofia;Dybek;user
+CREATE;bkot;pswTest123;Barbara;Kot;moderator
+UPDATE;zdybek;PASSword123;;;
+REMOVE;rmaks;;;;
+REMOVE;skukuczka;;;;
+UPDATE;bkot;;;Pies;
+UPDATE;bkot;;;;admin
+UPDATE;mamajchrzak;;;;user
+CREATE;dtrump;newPsw433;Donald;Trump;user
+UPDATE;dtrump;;;;admin

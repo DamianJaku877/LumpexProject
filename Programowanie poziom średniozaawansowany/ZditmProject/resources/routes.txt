@@ -1,0 +1,101 @@
+"route_id","route_short_name","route_long_name","route_desc","route_type","route_url","route_color","route_text_color"
+"1","1","Głębokie - Potulicka",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"2","2","Dworzec Niebuszewo - Turkusowa",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"3","3","Las Arkoński - Pomorzany",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"4","4","Krzekowo - Pomorzany",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"5","5","Krzekowo - Stocznia Szczecińska",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"6","6","Gocław - Pomorzany",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"7","7","Krzekowo - Turkusowa",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"8","8","Gumieńce - Turkusowa",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"9","9","Głębokie - Potulicka",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"10","10","Gumieńce - Las Arkoński",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"11","11","Ludowa - Pomorzany",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"12","12","Dworzec Niebuszewo - Pomorzany",,0,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"51","51","Kołłątaja - Osów (-Głębokie)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"52","52","Tkacka - Wyspa Pucka",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"53","53","Pomorzany Dobrzyńska - Stocznia Szczecińska (- Ludowa)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"54","54","Turkusowa - Kijewo (- Zakłady Mięsne)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"54_1","54","Basen Górniczy - Kijewo (- Zakłady Mięsne)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"55","55","Turkusowa - Osiedle Bukowe",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"55_1","55","Basen Górniczy - Klucz Autostrada",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"56","56","Basen Górniczy - Dąbie Osiedle",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"57","57","Kołłątaja - Warszewo",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"58","58","Plac Rodła - Gocław",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"59","59","Plac Rodła - Nehringa Pomnik / Studzienna",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"60","60","Stocznia Szczecińska - Cukrowa",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"61","61","Owocowa Dworzec - Podjuchy",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"62","62","(Wyszyńskiego -) Plac Zwycięstwa - Ustowo Auchan",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"63","63","Kołłątaja - Skolwin",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"64","64","Dąbie Osiedle - Klucz Autostrada",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"64_1","64","Dąbie Osiedle - Klucz Pętla",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"65","65","Rondo Ułanów Podolskich - Turkusowa",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"65_3","65","Rondo Ułanów Podolskich - Osiedle Bukowe",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"66","66","Osiedle Bukowe - Podjuchy (- Żydowce - Klucz)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"66_1","66","Żydowce - Osiedle Bukowe",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"67","67","Karola Miarki - Stocznia Szczecińska (- Ludowa)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"68","68","Przepiórki - Plac Rodła",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"69","69","Kołłątaja - Rugiańska (- Ludowa)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"70","70","Urząd Miasta - Dworzec Główny (- Elektrownia Pomorzany - Kamieniec - Pargowo)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"71","71","Rondo Ułanów Podolskich - Turkusowa",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"71_1","71","Basen Górniczy - Osiedle Słoneczne",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"72","72","Basen Górniczy - Śmierdnica (- Jezierzyce)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"73","73","Basen Górniczy - Zdroje - Zdunowo - Dąbie - Basen Górniczy",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"74","74","Bezrzecze - Zakłady Piekarnicze (- Łukasińskiego Ogrody - Mierzyn Szkoła)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"75","75","Krzekowo - Dworzec Główny",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"76","76","Brama Portowa - (Heyki -) Nabrzeże ""Ewa"" / Logistyczna",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"77","77","Osiedle Bukowe - Osiedle Kasztanowe",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"78","78","Kołłątaja - Osiedle Arkońskie",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"79","79","Turkusowa - Jezierzyce",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"79_1","79","Rondo Ułanów Podolskich - Jezierzyce",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"80","80","Zakłady Piekarnicze - Ludowa",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"81","81","Plac Kościuszki - Przecław (- Kołbaskowo - Rosówek Granica - Kamieniec)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"82","82","Kołłątaja - Krucza-Dom Kombatanta",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"83","83","Plac Kościuszki - Smolęcin (- Kołbaskowo)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"84","84","Turkusowa - Kijewo (- Zakłady Mięsne)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"84_1","84","Basen Górniczy - Kijewo",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"85","85","Podjuchy Pętla - Smocza-Falskiego",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"86","86","(Zakłady Piekarnicze -) Osiedle Kaliny - Plac Rodła",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"87","87","Owocowa Dworzec - Podbórz",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"88","88","Maczka - Okulickiego (- Stobno Stacja - Warnik)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"88_3","88","Kwiatowa - Okulickiego (- Stobno Stacja - Warnik)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFD000",
+"91","91","Turkusowa - Zakłady Mięsne",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"93","93","Basen Górniczy - Dąbie - Zdunowo - Zdroje - Basen Górniczy",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"96","96","Basen Górniczy - Osiedle Kasztanowe",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"97","97","Osiedle Bukowe - Dąbie Osiedle (- Zakłady Drobiarskie)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"101","101","Police Jasienica Pętla - Plac Rodła",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"102","102","Gocław - Police Tanowska Szkoła / Police Zajezdnia",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"103","103","(Police Zakłady Chemiczne -) Police Rynek - Głębokie",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"105","105","Klonowica Zajezdnia - Dobra Osiedle",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"106","106","Police Rynek - Głębokie",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"107","107","Plac Rodła - Police Osiedle Chemik",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"108","108","Gumieńce - Lubieszyn Rondo (- Lubieszyn Granica)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"109","109","Police Rynek - Police Tanowska Szkoła",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"110","110","Police Rynek - Siedlice Pętla",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"111","111","Police Zajezdnia - Police Jasienica Pętla",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"121","121","Głębokie - Grzepnica",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"122","122","(Kościno -) Dołuje - Bezrzecze (- Stolec)",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"123","123","Lubieszyn Rondo - Stolec",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"124","124","Gumieńce - Mierzyn Pod Lipami",,3,"http://www.zditm.szczecin.pl/rozklady/index.html",,
+"A","A","Osiedle Bukowe - Plac Rodła","Linia pospieszna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"B","B","Osiedle Słoneczne - Osiedle Arkońskie","Linia pospieszna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"C","C","Plac Rodła - Osiedle Kasztanowe","Linia pospieszna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"F","F","Plac Rodła - Police Osiedle Chemik","Linia pospieszna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"G","G","Wielgowo Borsucza - Plac Rodła","Linia pospieszna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"H","H","Plac Rodła - Dąbie Osiedle",,3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFFFFF","FF0000"
+"521","521","Krzekowo - Dworzec Główny","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"522","522","(Warszewo -) Kormoranów - Dąbie Osiedle (- Osiedle Kasztanowe)","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"523","523","Wiszesława - Cukrowa (- Przecław)","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"524","524","(Police Jasienica Pętla -) Police Zajezdnia - Pomorzany Dobrzyńska","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"525","525","Krzekowo - Wiszesława","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"526","526","Police Zajezdnia - Dworzec Główny","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"527","527","(Bezrzecze -) Krzekowo - Dworzec Główny","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"528","528","Pomorzany Dobrzyńska - Gumieńce","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFD000"
+"529","529","Plac Rodła - Krzekowo (- Głębokie Jaworowa)","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"530","530","Plac Rodła - Podbórz","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"531","531","Krzekowo - Osiedle Bukowe","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"532","532","(Osów -) Osiedle Arkońskie - Osiedle Bukowe","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"533","533","Klucz Pętla - Dąbie Dworzec","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"534","534","Osiedle Bukowe - Wielgowo Borsucza - Śmierdnica","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"535","535","Klonowica Zajezdnia - Stolec","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"536","536","Gumieńce - Grzepnica","Linia nocna",3,"http://www.zditm.szczecin.pl/rozklady/index.html","000000","FFFFFF"
+"888","888","Ku Słońcu - Maczka",,3,"http://www.zditm.szczecin.pl/rozklady/index.html","FFD000",
